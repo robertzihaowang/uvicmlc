@@ -1,5 +1,5 @@
 @import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=Montserrat:400,400italic,600,600italic,800,800italic");
+@import url("https://fonts.googleapis.com/css?family=Lato|Raleway:400,400italic,600,600italic,800,800italic");
 
 /*
 	Spectral by HTML5 UP
@@ -1412,7 +1412,7 @@
 
 	body, input, select, textarea {
 		color: ##932a2a;
-		font-family: "Montserrat", Helvetica, sans-serif;
+		font-family: "Raleway", Lato, sans-serif;
 		font-size: 15pt;
 		font-weight: 400;
 		letter-spacing: 0.075em;
