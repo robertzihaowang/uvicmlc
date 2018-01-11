@@ -1,7 +1,6 @@
 @import url(font-awesome.min.css);
 @import url('https://fonts.googleapis.com/css?family=Lato|Roboto');
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
-@import url("https://fonts.googleapis.com/css?family=Lato|Roboto:400,400italic,600,600italic,800,800italic");
 
 
 /*
@@ -1499,7 +1498,7 @@
 		font-weight: 800;
 		font-family: 'Lato', sans-serif;
 		letter-spacing: 0.1em;
-		line-height: 0.1em;
+		line-height: 0.5em;
 		margin: 0 0 1em 0;
 		text-transform: uppercase;
 
@@ -1537,13 +1536,13 @@
 		}
 
 	h4 {
-		font-size: 1.3em;
+		font-size: 1.5em;
 		line-height: 1.4em;
 	}
 
 	h5 {
-		font-size: 1.7em;
-		line-height: 0.1em;
+		font-size: 1.1em;
+		line-height: 0.5em;
 	}
 
 	h6 {
