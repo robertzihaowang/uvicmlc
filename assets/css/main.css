@@ -1411,8 +1411,8 @@
 		}
 
 	body, input, select, textarea {
-		color: ##932a2a;
-		font-family: "Raleway", Lato, sans-serif;
+		color: #fff;
+		font-family: "Lato", Raleway;
 		font-size: 15pt;
 		font-weight: 400;
 		letter-spacing: 0.075em;
