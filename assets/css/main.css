@@ -1412,7 +1412,7 @@
 
 	body, input, select, textarea {
 		color: #fff;
-		font-family: "Montserrat", Montserrat;
+		font-family: "Montserrat", Helvetica, sans-serif;
 		font-size: 15pt;
 		font-weight: 400;
 		letter-spacing: 0.075em;
