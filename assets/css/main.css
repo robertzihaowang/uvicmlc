@@ -3396,17 +3396,6 @@
 		text-align: center;
 	}
 
-/* THIS IS THE BANNER ICONS HOVER PORT */
-	#banner .icons {
-			font-size: 1.25em;
-		}
-
-			#banner .icons a {
-				color: rgba(255, 255, 255, 0.5);
-			}
-
-				#banner .icons a:hover {
-					color: ##f5aa1c;
 		#banner h2 {
 			-moz-transform: scale(1);
 			-webkit-transform: scale(1);
