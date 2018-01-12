@@ -1887,10 +1887,13 @@
 
 /* Icon */
 
+a:hover i.fa-facebook-square  { color: #3B5998; }
+
 	.icon {
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
+		
 	}
 
 		.icon:before {
