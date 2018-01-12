@@ -3418,6 +3418,25 @@
 		text-align: center;
 	}
 
+
+<-- YESSSSSSSSSSSSSSSS -->
+
+		#banner .icons {
+			banner-size: 1.25em;
+		}
+
+			#banner .icons a {
+				color: rgba(255, 255, 255, 0.5);
+			}
+
+				#banner .icons a:hover {
+					color: #fff;
+				}
+
+
+
+
+
 		#banner h2 {
 			-moz-transform: scale(1);
 			-webkit-transform: scale(1);
