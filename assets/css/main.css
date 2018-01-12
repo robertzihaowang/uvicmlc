@@ -3024,7 +3024,7 @@
 			.wrapper.style5 input[type="email"],
 			.wrapper.style5 select,
 			.wrapper.style5 textarea {
-				background: rgba(255, 255, 255, .3);
+				background: rgba(255, 255, 255, .15);
 			}
 
 			.wrapper.style5 .select-wrapper:before {
