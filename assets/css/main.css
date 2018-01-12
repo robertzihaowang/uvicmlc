@@ -1936,7 +1936,12 @@
 			}
 
 		.icon.style1 {
-			color: #fff175;
+			color: #f9f945;
+			
+			fa-user:hover {
+  			color: #006b33;
+			}
+			
 		}
 
 		.icon.style2 {
