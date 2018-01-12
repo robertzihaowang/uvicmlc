@@ -1888,8 +1888,6 @@
 
 /* Icon */
 
-a:hover i.fa-facebook-square  { color: #3B5998; }
-
 	.icon {
 		text-decoration: none;
 		border-bottom: none;
@@ -1943,7 +1941,7 @@ a:hover i.fa-facebook-square  { color: #3B5998; }
 			}
 
 		.icon.style1 {
-			color: #f9f945;
+			color: #F5AA1C;
 			
 			
 			
