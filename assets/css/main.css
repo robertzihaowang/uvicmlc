@@ -3276,7 +3276,7 @@
 		-webkit-transition: background-color 0.2s ease;
 		-ms-transition: background-color 0.2s ease;
 		transition: background-color 0.2s ease;
-		background: #2e3842;
+		background: #031c38;
 		height: 3em;
 		left: 0;
 		line-height: 3em;
@@ -3417,25 +3417,6 @@
 		position: relative;
 		text-align: center;
 	}
-
-
-<-- YESSSSSSSSSSSSSSSS -->
-
-		#banner .icons {
-			banner-size: 1.25em;
-		}
-
-			#banner .icons a {
-				color: rgba(255, 255, 255, 0.5);
-			}
-
-				#banner .icons a:hover {
-					color: #fff;
-				}
-
-
-
-
 
 		#banner h2 {
 			-moz-transform: scale(1);
