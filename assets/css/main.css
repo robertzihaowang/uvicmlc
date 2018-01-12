@@ -1672,21 +1672,21 @@
 
 /* Add a hover effect if you want */
 .fa:hover {
-    opacity: 0.7;
+    opacity: 0.6;
 }
 
 /* Set a specific color for each brand */
 
 /* Facebook */
 .fa-facebook {
-    background: ;
-    color: white;
+
+    color: #ffffff;
 }
 
 /* Twitter */
 .fa-twitter {
-    background: ;
-    color: white;
+
+    color: #ffffff;
 }
 
 /* Form */
